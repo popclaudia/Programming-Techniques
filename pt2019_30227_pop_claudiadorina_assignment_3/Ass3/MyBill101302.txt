@@ -1,0 +1,49 @@
+Bill number:101.302
+                           Client code: 101
+                                     Client name: Blaga Iuluia
+                            Product code: 302
+                                      Product: imprimanta
+                             Number of products: 2
+                              Price/Product: 230
+                           Price to pay: 460 lei.
+                Bill number:101.302
+                      Client code: 101
+                                     Client name: Blaga Iuluia
+                            Product code: 302
+                                      Product: imprimanta
+                             Number of products: 2
+                              Price/Product: 230
+                           Price to pay: 460 lei.
+                Bill number:101.302
+                      Client code: 101
+                                     Client name: Blaga Iuluia
+                            Product code: 302
+                                      Product: imprimanta
+                             Number of products: 1
+                              Price/Product: 230
+                           Price to pay: 230 lei.
+                Bill number:101.302
+                      Client code: 101
+                                     Client name: Blaga Iuluia
+                            Product code: 302
+                                      Product: imprimanta
+                             Number of products: 1
+                              Price/Product: 230
+                           Price to pay: 230 lei.
+                Bill number:101.302
+                      Client code: 101
+                                     Client name: Blaga Iuluia
+                            Product code: 302
+                                      Product: imprimanta
+                             Number of products: 7
+                              Price/Product: 230
+                           Price to pay: 1610 lei.
+                Bill number:101.302
+                      Client code: 101
+                                     Client name: Blaga Iuluia
+                            Product code: 302
+                                      Product: imprimanta
+                             Number of products: 3
+                              Price/Product: 230
+                           Price to pay: 690 lei.
+                

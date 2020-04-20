@@ -1,0 +1,9 @@
+Bill number:106.311
+                      Client code: 106
+                                     Client name: Muresan Mircea
+                            Product code: 311
+                                      Product: cana
+                             Number of products: 10
+                              Price/Product: 12
+                           Price to pay: 120 lei.
+                

@@ -1,0 +1,9 @@
+Bill number:108.310
+                           Client code: 108
+                                     Client name: Ilban Mara
+                            Product code: 310
+                                      Product: baterii
+                             Number of products: 1
+                              Price/Product: 15
+                           Price to pay: 15 lei.
+                
